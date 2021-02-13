@@ -1,5 +1,5 @@
 # MicronautTutorials
 
 ### Micronaut CLI commands
-mn --version
-mn craete-app helloworldapp 
+mn --version 
+<br>mn craete-app helloworldapp 
